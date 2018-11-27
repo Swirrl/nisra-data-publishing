@@ -1,0 +1,4 @@
+Label,Notation,Parent Notation
+All Persons,all-persons,
+Females,females,all-persons
+Males,males,all-persons

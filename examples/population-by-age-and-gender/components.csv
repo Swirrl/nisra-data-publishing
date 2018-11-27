@@ -1,0 +1,4 @@
+Label,Description,Component Type,Codelist
+Gender,The state of being male or female,Dimension,http://linked.nisra.gov.uk/def/concept-scheme/gender
+Age, Bands of age in years,Dimension,http://linked.nisra.gov.uk/def/concept-scheme/age
+Count,Total number of items,Measure,

@@ -1,6 +1,6 @@
 title,name,component_attachment,property_template,value_template,datatype,value_transformation
 Geo_Code,geography_code,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refArea,http://statistics.data.gov.uk/id/statistical-geography/{geography_code},string,
-Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string
+Year,year,qb:dimension,http://purl.org/linked-data/sdmx/2009/dimension#refPeriod,http://reference.data.gov.uk/id/year/{year},string,
 Gender,gender,qb:dimension,http://linked.nisra.gov.uk/def/dimension/gender,http://linked.nisra.gov.uk/def/concept/gender/{gender},string,slugize
 Age,age,qb:dimension,http://linked.nisra.gov.uk/def/dimension/age,http://linked.nisra.gov.uk/def/concept/single-year-of-age/{age},string,
 Population_Estimate,population_estimate,,http://linked.nisra.gov.uk/def/measure/count,,nonNegativeInteger,
